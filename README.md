@@ -1,2 +1,2 @@
 # Scroll-Animation
-Built an simple scroll animation 
+Built a simple scroll animation 
